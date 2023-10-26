@@ -1,3 +1,3 @@
 # LampDosNiveles
 
-![](img/Imagen1.png)
+![](img/Imagen1.jng)
