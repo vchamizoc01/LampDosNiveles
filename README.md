@@ -18,7 +18,7 @@
 
 ![](img/Imagen9.jpg)
 
-![](img/capturavagranfile.jpg)
+![](img/capturavagrantfile.jpg)
 
 ![](img/Imagen10.jpg)
 
