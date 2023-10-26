@@ -6,16 +6,16 @@
 ![](img/Imagen3.jpg)
 #### y por ultimo tenemos la de mysql. 
 ![](img/Imagen7.jpg)
-#### Estos ficheros deben tener la extension .sh y la opcion -y es para aceptar la descarga cuando nos salga la opcion *yes/no*
+#### Estos ficheros deben tener la extension ` .sh ` y la opcion ` -y ` es para aceptar la descarga cuando nos salga la opcion ` yes/no* `
 #### Ahora editaremos el fichero vagrantfile para crear las maquinas con su aprovisionamiento, su direccion ip para tenerlas en la misma red, un puerto para su acceso y una direccion ip publica en el caso de la maquina de apache
 ![](img/capturavagrantfile.jpg)
 #### estas dos capturas sigentes son el comando para realizar el aprovisionamientos de las maquinas 
 ![](img/Imagen6.jpg)
 
 ![](img/Imagen8.jpg)
-#### con el comando sudo service apache2 estatus comprovaremos si el servicio apache esta activo
+#### con el comando ` sudo service apache2 estatus ` comprovaremos si el servicio apache esta activo
 ![](img/Imagen2.jpg)
-#### para comprovar si php funciona editaremos el fichero info.php en el directorio  /var/www/html
+#### para comprovar si php funciona editaremos el fichero * info.php * en el directorio  /var/www/html
 ![](img/Imagen4.jpg)
 #### una vez editado provaremos si esta activo poniendo en internet la direccion ip junto con el puerto y el nombre del fichero debiendo mostrar una pagina predeterminada
 ![](img/Imagen5.jpg)
