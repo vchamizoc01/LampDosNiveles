@@ -15,7 +15,7 @@
 ![](img/Imagen13.jpg)
 ![](img/Imagen14.jpg)
 ![](img/Imagen15.jpg)
-![](img/Imagen16.jpg
+![](img/Imagen16.jpg)
 ![](img/Imagen17.jpg)
 ![](img/Imagen18.jpg)
 ![](img/Imagen19.jpg)
